@@ -49,7 +49,7 @@ const objeto = {
 Imprima em tela o nome e especialidade da primeira tecnologia que o usuário utiliza no seguinte formato:
 
 O usuário Carlos tem 32 anos e usa a tecnologia C++ com especialidade em Desktop*/
-/*
+
 const dev = [
     {nome:"Junior", idade: 35},
     {nome:"Maria", idade: 25},
@@ -61,4 +61,4 @@ const tec = [
     {nome:"Python", especialidade:"Data Science"}
 ]
 
-console.log (`O desenvolvedor ${dev[0].nome} tem ${dev[0].idade} anos e usa a tecnologia ${tec[0].nome} com a especialidade em ${tec[0].especialidade}.`)*/
+console.log (`O desenvolvedor ${dev[0].nome} tem ${dev[0].idade} anos e usa a tecnologia ${tec[0].nome} com a especialidade em ${tec[0].especialidade}.`)
